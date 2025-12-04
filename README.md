@@ -22,9 +22,9 @@
   <img src="https://i.pravatar.cc/150?img=33" alt="Profile Picture" width="150" style="border-radius: 50%;">
   <div>
     <h3>Hi, I'm firerlAGI 👨‍💻</h3>
-    <p>I'm a passionate <strong>AI Engineer</strong> with expertise in <strong>Artificial Intelligence</strong>. My journey in tech started with a curiosity for how things work, and now I'm dedicated to creating impactful software that solves real-world problems.</p>
-    <p>When I'm not coding, you can find me exploring new technologies, contributing to open source, or sharing my knowledge through writing and speaking.</p>
-    <p>💡 <strong>Philosophy:</strong> "Code is poetry, and technology is the canvas."</p>
+    <p>I'm <strong>trying to overcome ADHD (Attention Deficit Hyperactivity Disorder) through AI approaches</strong> and the <strong>founder of the Second Brain project</strong>. My vision is to <strong>return people to their true selves</strong>.</p>
+    <p>Passionate about leveraging artificial intelligence to solve real-world challenges and empower individuals to reach their full potential.</p>
+    <p>💡 <strong>Philosophy:</strong> "Technology should serve humanity, helping us reconnect with our inner selves."</p>
   </div>
 </div>
 
@@ -113,9 +113,9 @@
   <img src="https://i.pravatar.cc/150?img=33" alt="Profile Picture" width="150" style="border-radius: 50%;">
   <div>
     <h3>你好，我是 firerlAGI 👨‍💻</h3>
-    <p>我是一名充满激情的 <strong>AI工程师</strong>，专注于 <strong>人工智能</strong> 领域。我在技术领域的旅程始于对事物工作原理的好奇心，现在我致力于创建能够解决现实世界问题的有影响力的软件。</p>
-    <p>当我不编码时，你可以发现我在探索新技术、为开源做贡献，或者通过写作和演讲分享我的知识。</p>
-    <p>💡 <strong>理念:</strong> "代码是诗歌，技术是画布。"</p>
+    <p>我 <strong>正在尝试使用AI的手段攻克ADHD（注意力缺陷与多动障碍）</strong>，同时也是 <strong>第二大脑项目创始人</strong>。我的愿景是 <strong>将人还给自我</strong>。</p>
+    <p>热衷于利用人工智能解决现实世界的挑战，赋能个人发挥最大潜能。</p>
+    <p>💡 <strong>理念:</strong> "技术应该服务于人类，帮助我们重新连接内心的自我。"</p>
   </div>
 </div>
 
