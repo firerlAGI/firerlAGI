@@ -33,64 +33,43 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px;">
   
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h4>AI-Powered Task Manager</h4>
-    <p><strong>Description:</strong> A smart task manager that uses AI to prioritize tasks, set deadlines, and provide productivity insights.</p>
-    <p><strong>Tech Stack:</strong> React, Node.js, MongoDB, OpenAI API</p>
+    <h4>Second Brain</h4>
+    <p><strong>Description:</strong> A personal knowledge management system that helps organize thoughts, ideas, and information using AI-powered connections and insights.</p>
+    <p><strong>Tech Stack:</strong> AI, Knowledge Graph, Natural Language Processing</p>
     <p><strong>Features:</strong></p>
     <ul>
-      <li>AI-powered task prioritization</li>
-      <li>Natural language processing for task creation</li>
-      <li>Productivity analytics dashboard</li>
-      <li>Collaborative workspaces</li>
+      <li>AI-powered knowledge organization</li>
+      <li>Intelligent connections between ideas</li>
+      <li>Personalized knowledge recommendations</li>
+      <li>Cross-platform synchronization</li>
     </ul>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/firerlAGI/ai-task-manager?style=social" alt="GitHub Stars">
+      <a href="https://github.com/firerlAGI/second-brain" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/stars/firerlAGI/second-brain?style=social" alt="GitHub Stars">
       </a>
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/firerlAGI/ai-task-manager?style=social" alt="GitHub Forks">
+      <a href="https://github.com/firerlAGI/second-brain" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/forks/firerlAGI/second-brain?style=social" alt="GitHub Forks">
       </a>
     </div>
   </div>
   
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
-    <h4>Real-time Chat Application</h4>
-    <p><strong>Description:</strong> A modern, scalable real-time chat application with end-to-end encryption and file sharing capabilities.</p>
-    <p><strong>Tech Stack:</strong> TypeScript, Socket.io, Express, PostgreSQL</p>
+    <h4>ADHD</h4>
+    <p><strong>Description:</strong> An AI-powered application designed to help individuals with ADHD improve focus, manage tasks, and enhance productivity through personalized strategies.</p>
+    <p><strong>Tech Stack:</strong> AI, Machine Learning, Behavioral Science</p>
     <p><strong>Features:</strong></p>
     <ul>
-      <li>End-to-end encryption</li>
-      <li>Real-time messaging with typing indicators</li>
-      <li>File sharing and preview</li>
-      <li>Group chats and private messaging</li>
+      <li>Personalized focus enhancement techniques</li>
+      <li>Task management for ADHD minds</li>
+      <li>Progress tracking and insights</li>
+      <li>Behavioral pattern analysis</li>
     </ul>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/firerlAGI/realtime-chat?style=social" alt="GitHub Stars">
+      <a href="https://github.com/firerlAGI/adhd" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/stars/firerlAGI/adhd?style=social" alt="GitHub Stars">
       </a>
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/firerlAGI/realtime-chat?style=social" alt="GitHub Forks">
-      </a>
-    </div>
-  </div>
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
-    <h4>DevOps CI/CD Pipeline</h4>
-    <p><strong>Description:</strong> A comprehensive CI/CD pipeline template for modern web applications with automated testing and deployment.</p>
-    <p><strong>Tech Stack:</strong> GitHub Actions, Docker, Kubernetes, AWS</p>
-    <p><strong>Features:</strong></p>
-    <ul>
-      <li>Automated testing (unit, integration, E2E)</li>
-      <li>Containerization with Docker</li>
-      <li>Kubernetes deployment</li>
-      <li>Infrastructure as Code with Terraform</li>
-    </ul>
-    <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/firerlAGI/devops-pipeline?style=social" alt="GitHub Stars">
-      </a>
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/firerlAGI/devops-pipeline?style=social" alt="GitHub Forks">
+      <a href="https://github.com/firerlAGI/adhd" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/forks/firerlAGI/adhd?style=social" alt="GitHub Forks">
       </a>
     </div>
   </div>
@@ -124,64 +103,43 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px;">
   
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h4>AI驱动的任务管理器</h4>
-    <p><strong>描述:</strong> 一个智能任务管理器，使用AI来优先排序任务、设置截止日期并提供 productivity 洞察。</p>
-    <p><strong>技术栈:</strong> React, Node.js, MongoDB, OpenAI API</p>
+    <h4>第二大脑</h4>
+    <p><strong>描述:</strong> 一个个人知识管理系统，使用AI驱动的连接和洞察来帮助组织思想、创意和信息。</p>
+    <p><strong>技术栈:</strong> AI, 知识图谱, 自然语言处理</p>
     <p><strong>特性:</strong></p>
     <ul>
-      <li>AI驱动的任务优先排序</li>
-      <li>用于任务创建的自然语言处理</li>
-      <li>生产力分析仪表板</li>
-      <li>协作工作区</li>
+      <li>AI驱动的知识组织</li>
+      <li>思想之间的智能连接</li>
+      <li>个性化知识推荐</li>
+      <li>跨平台同步</li>
     </ul>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/firerlAGI/ai-task-manager?style=social" alt="GitHub Stars">
+      <a href="https://github.com/firerlAGI/second-brain" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/stars/firerlAGI/second-brain?style=social" alt="GitHub Stars">
       </a>
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/firerlAGI/ai-task-manager?style=social" alt="GitHub Forks">
+      <a href="https://github.com/firerlAGI/second-brain" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/forks/firerlAGI/second-brain?style=social" alt="GitHub Forks">
       </a>
     </div>
   </div>
   
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
-    <h4>实时聊天应用</h4>
-    <p><strong>描述:</strong> 一个现代化、可扩展的实时聊天应用，具有端到端加密和文件共享功能。</p>
-    <p><strong>技术栈:</strong> TypeScript, Socket.io, Express, PostgreSQL</p>
+    <h4>ADHD</h4>
+    <p><strong>描述:</strong> 一个AI驱动的应用程序，旨在帮助ADHD患者通过个性化策略提高专注力、管理任务和增强生产力。</p>
+    <p><strong>技术栈:</strong> AI, 机器学习, 行为科学</p>
     <p><strong>特性:</strong></p>
     <ul>
-      <li>端到端加密</li>
-      <li>带有打字指示器的实时消息</li>
-      <li>文件共享和预览</li>
-      <li>群聊和私人消息</li>
+      <li>个性化专注力提升技术</li>
+      <li>针对ADHD思维的任务管理</li>
+      <li>进度跟踪和洞察</li>
+      <li>行为模式分析</li>
     </ul>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/firerlAGI/realtime-chat?style=social" alt="GitHub Stars">
+      <a href="https://github.com/firerlAGI/adhd" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/stars/firerlAGI/adhd?style=social" alt="GitHub Stars">
       </a>
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/firerlAGI/realtime-chat?style=social" alt="GitHub Forks">
-      </a>
-    </div>
-  </div>
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
-    <h4>DevOps CI/CD 流水线</h4>
-    <p><strong>描述:</strong> 一个全面的 CI/CD 流水线模板，用于现代 web 应用程序，具有自动化测试和部署功能。</p>
-    <p><strong>技术栈:</strong> GitHub Actions, Docker, Kubernetes, AWS</p>
-    <p><strong>特性:</strong></p>
-    <ul>
-      <li>自动化测试（单元测试、集成测试、E2E测试）</li>
-      <li>使用 Docker 进行容器化</li>
-      <li>Kubernetes 部署</li>
-      <li>使用 Terraform 的基础设施即代码</li>
-    </ul>
-    <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/firerlAGI/devops-pipeline?style=social" alt="GitHub Stars">
-      </a>
-      <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/github/forks/firerlAGI/devops-pipeline?style=social" alt="GitHub Forks">
+      <a href="https://github.com/firerlAGI/adhd" style="text-decoration: none;">
+        <img src="https://img.shields.io/github/forks/firerlAGI/adhd?style=social" alt="GitHub Forks">
       </a>
     </div>
   </div>
