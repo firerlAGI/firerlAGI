@@ -75,6 +75,32 @@
   </div>
 </div>
 
+## 📝 Latest Articles
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
+    <h4>Understanding ADHD and AI Solutions</h4>
+    <p><strong>Date:</strong> December 4, 2024</p>
+    <p>A deep dive into ADHD and how AI can help manage symptoms and improve focus.</p>
+    <a href="#" style="color: #667eea; font-weight: bold;">Read More →</a>
+  </div>
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
+    <h4>Building a Second Brain with AI</h4>
+    <p><strong>Date:</strong> November 30, 2024</p>
+    <p>How to create a personal knowledge management system using AI-powered tools.</p>
+    <a href="#" style="color: #f093fb; font-weight: bold;">Read More →</a>
+  </div>
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
+    <h4>The Future of AI in Mental Health</h4>
+    <p><strong>Date:</strong> November 25, 2024</p>
+    <p>Exploring how artificial intelligence is transforming mental health treatment.</p>
+    <a href="#" style="color: #4facfe; font-weight: bold;">Read More →</a>
+  </div>
+</div>
+
 <div align="center">
   <p>🌱 <strong>Digital Garden maintained by firerlAGI</strong></p>
   <p>📅 Last updated: December 2024</p>
@@ -142,6 +168,32 @@
         <img src="https://img.shields.io/github/forks/firerlAGI/adhd?style=social" alt="GitHub Forks">
       </a>
     </div>
+  </div>
+</div>
+
+## 📝 最新文章
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
+    <h4>了解ADHD与AI解决方案</h4>
+    <p><strong>日期:</strong> 2024年12月4日</p>
+    <p>深入探讨ADHD以及AI如何帮助管理症状和提高专注力。</p>
+    <a href="#" style="color: #667eea; font-weight: bold;">阅读更多 →</a>
+  </div>
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
+    <h4>使用AI构建第二大脑</h4>
+    <p><strong>日期:</strong> 2024年11月30日</p>
+    <p>如何使用AI驱动工具创建个人知识管理系统。</p>
+    <a href="#" style="color: #f093fb; font-weight: bold;">阅读更多 →</a>
+  </div>
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
+    <h4>AI在心理健康领域的未来</h4>
+    <p><strong>日期:</strong> 2024年11月25日</p>
+    <p>探索人工智能如何改变心理健康治疗。</p>
+    <a href="#" style="color: #4facfe; font-weight: bold;">阅读更多 →</a>
   </div>
 </div>
 
