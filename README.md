@@ -1,4 +1,4 @@
-do# 👋 Welcome to My Digital Garden! 🌱
+# 👋 Welcome to My Digital Garden! 🌱
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Coding Animation">
