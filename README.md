@@ -75,37 +75,52 @@
   </div>
 </div>
 
-## 📝 Latest Articles
+## 📝 Latest Updates
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h4>Exploring Tiimo: AI-Powered ADHD Solution</h4>
-    <p><strong>Date:</strong> December 5, 2024</p>
-    <p>Discovered Tiimo, an AI-powered app featured in Apple's annual list that helps manage ADHD symptoms. I'll be testing it for a few days to explore its features.</p>
-    <a href="#" style="color: #667eea; font-weight: bold;">Read More →</a>
+### 🔄 Daily Blog Posts
+
+I share daily insights and updates about ADHD, AI, and the Second Brain project on my WeChat official account. Follow me for the latest content!
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="[Your WeChat Official Account Link]" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 30px; font-weight: bold; text-decoration: none;">
+    📱 Follow My WeChat Official Account
+  </a>
+</div>
+
+### 📅 Recent Articles
+
+<div style="display: flex; flex-direction: column; gap: 15px; margin: 20px 0;">
+  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #667eea;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h5 style="margin: 0;">Exploring Tiimo: AI-Powered ADHD Solution</h5>
+      <span style="font-size: 12px; color: #666;">Dec 5, 2024</span>
+    </div>
+    <p style="margin: 8px 0;">Discovered Tiimo, an AI-powered app featured in Apple's annual list that helps manage ADHD symptoms.</p>
+    <a href="#" style="color: #667eea; font-size: 14px; font-weight: bold;">Read on WeChat →</a>
   </div>
   
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h4>Understanding ADHD and AI Solutions</h4>
-    <p><strong>Date:</strong> December 4, 2024</p>
-    <p>A deep dive into ADHD and how AI can help manage symptoms and improve focus.</p>
-    <a href="#" style="color: #667eea; font-weight: bold;">Read More →</a>
+  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #f093fb;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h5 style="margin: 0;">Understanding ADHD and AI Solutions</h5>
+      <span style="font-size: 12px; color: #666;">Dec 4, 2024</span>
+    </div>
+    <p style="margin: 8px 0;">A deep dive into ADHD and how AI can help manage symptoms and improve focus.</p>
+    <a href="#" style="color: #f093fb; font-size: 14px; font-weight: bold;">Read on WeChat →</a>
   </div>
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
-    <h4>Building a Second Brain with AI</h4>
-    <p><strong>Date:</strong> November 30, 2024</p>
-    <p>How to create a personal knowledge management system using AI-powered tools.</p>
-    <a href="#" style="color: #f093fb; font-weight: bold;">Read More →</a>
-  </div>
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
-    <h4>The Future of AI in Mental Health</h4>
-    <p><strong>Date:</strong> November 25, 2024</p>
-    <p>Exploring how artificial intelligence is transforming mental health treatment.</p>
-    <a href="#" style="color: #4facfe; font-weight: bold;">Read More →</a>
-  </div>
+</div>
+
+### 🔗 Quick Links
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <a href="[Your WeChat Official Account Link]" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat">
+  </a>
+  <a href="[Your Blog Link]" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white" alt="Blog">
+  </a>
+  <a href="[Your RSS Link]" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/RSS-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="RSS">
+  </a>
 </div>
 
 <div align="center">
@@ -178,37 +193,52 @@
   </div>
 </div>
 
-## 📝 最新文章
+## 📝 最新动态
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h4>探索Tiimo：AI驱动的ADHD解决方案</h4>
-    <p><strong>日期:</strong> 2024年12月5日</p>
-    <p>没想到市面上已经有这么优秀的产品了！今天早上起来，看了一眼新闻，Apple Store的年度榜单出来了，最耀眼的一个是一个名字叫Tiimo的软件，他们已经试图使用AI的手段来解决ADHD的问题了。我先试用几天，然后看一看这里面有什么好东西。</p>
-    <a href="#" style="color: #667eea; font-weight: bold;">阅读更多 →</a>
+### 🔄 每日公众号更新
+
+我每天在微信公众号分享关于ADHD、AI和第二大脑项目的洞察和更新。关注我获取最新内容！
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="[你的微信公众号链接]" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 30px; font-weight: bold; text-decoration: none;">
+    📱 关注我的微信公众号
+  </a>
+</div>
+
+### 📅 近期文章
+
+<div style="display: flex; flex-direction: column; gap: 15px; margin: 20px 0;">
+  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #667eea;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h5 style="margin: 0;">探索Tiimo：AI驱动的ADHD解决方案</h5>
+      <span style="font-size: 12px; color: #666;">2024年12月5日</span>
+    </div>
+    <p style="margin: 8px 0;">没想到市面上已经有这么优秀的产品了！今天早上起来，看了一眼新闻，Apple Store的年度榜单出来了，最耀眼的一个是一个名字叫Tiimo的软件，他们已经试图使用AI的手段来解决ADHD的问题了。</p>
+    <a href="#" style="color: #667eea; font-size: 14px; font-weight: bold;">在微信阅读 →</a>
   </div>
   
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h4>了解ADHD与AI解决方案</h4>
-    <p><strong>日期:</strong> 2024年12月4日</p>
-    <p>深入探讨ADHD以及AI如何帮助管理症状和提高专注力。</p>
-    <a href="#" style="color: #667eea; font-weight: bold;">阅读更多 →</a>
+  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #f093fb;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h5 style="margin: 0;">了解ADHD与AI解决方案</h5>
+      <span style="font-size: 12px; color: #666;">2024年12月4日</span>
+    </div>
+    <p style="margin: 8px 0;">深入探讨ADHD以及AI如何帮助管理症状和提高专注力。</p>
+    <a href="#" style="color: #f093fb; font-size: 14px; font-weight: bold;">在微信阅读 →</a>
   </div>
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #f093fb;">
-    <h4>使用AI构建第二大脑</h4>
-    <p><strong>日期:</strong> 2024年11月30日</p>
-    <p>如何使用AI驱动工具创建个人知识管理系统。</p>
-    <a href="#" style="color: #f093fb; font-weight: bold;">阅读更多 →</a>
-  </div>
-  
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #4facfe;">
-    <h4>AI在心理健康领域的未来</h4>
-    <p><strong>日期:</strong> 2024年11月25日</p>
-    <p>探索人工智能如何改变心理健康治疗。</p>
-    <a href="#" style="color: #4facfe; font-weight: bold;">阅读更多 →</a>
-  </div>
+</div>
+
+### 🔗 快捷链接
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <a href="[你的微信公众号链接]" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/微信-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信">
+  </a>
+  <a href="[你的博客链接]" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/博客-FF6B6B?style=for-the-badge&logo=medium&logoColor=white" alt="博客">
+  </a>
+  <a href="[你的RSS链接]" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/RSS-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="RSS">
+  </a>
 </div>
 
 <div align="center">
