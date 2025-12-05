@@ -80,6 +80,13 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
+    <h4>Exploring Tiimo: AI-Powered ADHD Solution</h4>
+    <p><strong>Date:</strong> December 5, 2024</p>
+    <p>Discovered Tiimo, an AI-powered app featured in Apple's annual list that helps manage ADHD symptoms. I'll be testing it for a few days to explore its features.</p>
+    <a href="#" style="color: #667eea; font-weight: bold;">Read More →</a>
+  </div>
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
     <h4>Understanding ADHD and AI Solutions</h4>
     <p><strong>Date:</strong> December 4, 2024</p>
     <p>A deep dive into ADHD and how AI can help manage symptoms and improve focus.</p>
@@ -103,7 +110,7 @@
 
 <div align="center">
   <p>🌱 <strong>Digital Garden maintained by firerlAGI</strong></p>
-  <p>📅 Last updated: December 2024</p>
+  <p>📅 Last updated: December 5, 2024</p>
 </div>
 
 </div>
@@ -176,6 +183,13 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
+    <h4>探索Tiimo：AI驱动的ADHD解决方案</h4>
+    <p><strong>日期:</strong> 2024年12月5日</p>
+    <p>没想到市面上已经有这么优秀的产品了！今天早上起来，看了一眼新闻，Apple Store的年度榜单出来了，最耀眼的一个是一个名字叫Tiimo的软件，他们已经试图使用AI的手段来解决ADHD的问题了。我先试用几天，然后看一看这里面有什么好东西。</p>
+    <a href="#" style="color: #667eea; font-weight: bold;">阅读更多 →</a>
+  </div>
+  
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
     <h4>了解ADHD与AI解决方案</h4>
     <p><strong>日期:</strong> 2024年12月4日</p>
     <p>深入探讨ADHD以及AI如何帮助管理症状和提高专注力。</p>
@@ -199,7 +213,7 @@
 
 <div align="center">
   <p>🌱 <strong>由 firerlAGI 维护的数字花园</strong></p>
-  <p>📅 最后更新：2024年12月</p>
+  <p>📅 最后更新：2024年12月5日</p>
 </div>
 
 </div>
